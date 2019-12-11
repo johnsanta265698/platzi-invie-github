@@ -1,2 +1,4 @@
-# platzi-invie-github
-Curso de git y github de platzi
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/

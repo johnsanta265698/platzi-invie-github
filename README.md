@@ -1,4 +1,4 @@
 # invie
 Las guitarras más locas
 
-http://leonidasesteban.github.io/invie-responsive/
+https://johnsanta265698.github.io/platzi-invie-github/
